@@ -1,0 +1,14 @@
+// If you want to override variables do it here
+@import "variables";
+
+// Import styles
+
+
+// If you want to add something do it here
+@import "frontstyle.css";
+@import "./css/bootstrap.css";
+@import "./css/fontawesome.css";
+@import "./css/fonts.css";
+
+// ie fixes
+@import "ie-fix";
